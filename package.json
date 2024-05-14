@@ -1,0 +1,14 @@
+{
+	"name": "ion-dev-issue",
+	"type": "module",
+	"version": "0.0.1",
+	"packageManager": "bun@1.1.8",
+	"engines": {
+		"node": ">=20.11.1"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240512.0",
+		"sst": "ion",
+		"typescript": "5.4.5"
+	}
+}
